@@ -39,12 +39,9 @@
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-<!--   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code> -->
 
   <code> <img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"> </code>
   <code> <img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"> </code>
