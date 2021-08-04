@@ -51,6 +51,7 @@
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
 
   <code> <img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"> </code>
+  <code> <img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
@@ -59,6 +60,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://www.python.org/static/community_logos/python-powered-h.svg"> </code>
+  <code> <img height="50" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg"> </code>
+  <code> <img height="50" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
