@@ -50,7 +50,7 @@
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
 
-  <code> <img height="50" src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg#/media/File:HTML5_logo_and_wordmark.svg"> </code>
+  <code> <img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
